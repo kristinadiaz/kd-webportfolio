@@ -1,0 +1,14 @@
+/* CSS for webpage */
+/* Set ALL HTML elements with border-box sizing */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 600px;
+    background-color: transparent;
+    color: #000000;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
