@@ -1,14 +1,28 @@
-/* CSS for webpage */
+/*CSS for webpage */
 /* Set ALL HTML elements with border-box sizing */
 
 * {
     box-sizing: border-box;
 }
 
-body {
-    width: 600px;
-    background-color: transparent;
-    color: #000000;
-    margin: 0 auto;
-    padding: 0 20px 20px 20px;
+/* Body */
+
+/* Header */
+
+/* Sections */
+
+/* Main */
+
+/* Footer */
+
+/* Images */
+
+img {
+    width: 400px;
+    display: block;
+    padding: 10px;
 }
+
+/* h3 */
+
+/* p */
