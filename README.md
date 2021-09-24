@@ -1,32 +1,24 @@
 # kd-webportfolio
-Kristina Diaz
-Coding Enthusiast
 
-Hi! Welcome to My Page! <!--do something interactive here-->
+<!--Banner Links to Sections w/in webpage-->
+Home    About    Portfolio    Resume    Contact
 
-female smiling - picture of myself
+<!--Professional Picture, Greeting-->
+Hi, I'm Kristina Diaz
+Welcome To My Page <!--subheading-->
 
-Currently living in Erie, Colorado
+<!--About Me Section-->
+Another photo next to section about me
+After graduating college with a B.A. in History, I spent 2 1/2 years as a desktop support technician. After much reflection, I decided being a desktop support technician was not the career path for me. I realized that I enjoyed the idea of creating, problem solving, and tinkering with code. I decided pursing a career in web development was the right path for me and I'm currently enrolled in Flatiron School's Software Engineering program.
 
-About Me
-After graduating college with a B.A. in history, I worked as an administrative assistant for an orthopedic practice. From there, my interest in technology grew and I became their onsite technical support where I got my A+ certification. Unfortunately, there wasn't much growth and was hired on by Reliable IT to continue my career in tech.
+<!--Portfolio Section-->
+Pictures that link to separate page to projects
 
-While working at Reliable IT, I came to realize that I had a passion for creating something new. I enjoyed building and configuring workstations, but it wasn't quite what I was looking to do. My friends, who are web developers, suggested I look into coding. I took a few free online courses and I fell in love with it!
+<!--Resume Section-->
+Experience     Education
+<!--Different sections like index cards-->
 
-I enjoy the idea of creating, problem solving, and tinkering with code. After much reflection, I realized this was the career path that I wanted to pursue and I'm currently enrolled in a bootcamp to become a Full Stack Enginner.
-
-Interests
-Other than coding, my interests include:
-
-Running
-Hiking
-Photography
-Writing
-
-footer
-contact links
-email link
-LinkedIn <!--try logo link-->
-Github <!--try logo link-->
-
-<!--Try a different color scheme and add some JavaScript code to make it more interactive-->
+<!--Contact Section-->
+Email - mailto: kristina.diaz84@gmail.com
+LinkedIn - https://www.linkedin.com/in/kristina-diaz-kd1356
+GitHub - https://github.com/kristinadiaz
