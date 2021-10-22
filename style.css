@@ -5,3 +5,58 @@
     box-sizing: border-box;
 }
 
+/* navigation style */
+.myTopNav {
+    text-align: center;
+    background-color: #000;
+    padding: 25px;
+}
+
+.myTopNav a {
+    color: #fff;
+}
+
+/* body background */
+.background {
+    background-color: #22333b;
+}
+
+#center {
+    text-align: center;
+}
+
+/* h1, h2, h3, & p styles */
+h1, h2, h3 {
+    color: #ffc300;
+}
+
+p {
+    color: #fff;
+    font-size: 19px;
+    font-family: Helvetica, sans-serif;
+    display: inline-block;
+    width: 46%;
+    @media (max-width: 620px) {
+        width: 100%;
+    }
+}
+
+/* images */
+.banner {
+    width: 100%;
+    border-radius: 12px;
+    height: 214px;
+    object-fit: cover;
+}
+
+/*.first-image {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+}*/
+
+.second-image {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+}
