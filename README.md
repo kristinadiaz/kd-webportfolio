@@ -9,7 +9,7 @@ Welcome To My Page <!--subheading-->
 
 <!--About Me Section-->
 Another photo next to section about me
-After graduating college with a B.A. in History, I spent 2 1/2 years as a desktop support technician. After much reflection, I decided being a desktop support technician was not the career path for me. I realized that I enjoyed the idea of creating, problem solving, and tinkering with code. I decided pursing a career in web development was the right path for me and I'm currently enrolled in Flatiron School's Software Engineering program.
+After graduating college with a B.A. in History, I spent 2 1/2 years as a desktop support technician. After much reflection, I decided being a desktop support technician was not the career path for me. I realized that I enjoyed the idea of creating, problem solving, and tinkering with what I built. I decided pursing a career as a Full Stack Software Engineer was the right path for me and I'm currently enrolled in Flatiron School's Software Engineering program.
 
 <!--Portfolio Section-->
 Pictures that link to separate page to projects
