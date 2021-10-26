@@ -7,22 +7,46 @@
 
 /* navigation style */
 .myTopNav {
-    text-align: center;
+    width: 100%;
     background-color: #000;
-    padding: 25px;
+    overflow: auto;
 }
 
 .myTopNav a {
+    float: left;
+    padding: 1px;
     color: #fff;
+    font-size: 17px;
+    width: 20%;
+    text-align: center;
 }
 
-/* body background */
+.myTopNav a:hover {
+    background-color:#ffc300;
+}
+
+@media screen and (max-width: 500px) {
+    .myTopNav a {
+        float: none;
+        display: block;
+        width:100%;
+        text-align: left;
+    }
+}
+
+/* body & background */
 .background {
     background-color: #22333b;
 }
 
 #center {
     text-align: center;
+}
+
+body {
+    background-color: transparent;
+    color: #000000;
+    margin: 0 auto;
 }
 
 /* h1, h2, h3, & p styles */
@@ -34,6 +58,7 @@ p {
     color: #fff;
     font-size: 19px;
     font-family: Helvetica, sans-serif;
+    line-height: 1.8;
     display: inline-block;
     width: 46%;
     @media (max-width: 620px) {
@@ -58,5 +83,5 @@ p {
 .second-image {
     display: inline-block;
     vertical-align: top;
-    width: 25%;
+    width: 18%;
 }
